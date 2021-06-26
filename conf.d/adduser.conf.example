@@ -1,0 +1,8 @@
+server=127.0.0.1
+port=22
+admin=root
+
+username=jerry
+password=init-pass
+
+key_file=~/.ssh/id_rsa.pub
