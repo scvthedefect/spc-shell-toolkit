@@ -3,9 +3,9 @@
 ## 在服务器中创建用户，并设置 ssh 免密登录。
 
 if [[ $LANG == *"zh_CN"* ]]; then
-  . ./i18n/adduser_zh.conf
+  . ./i18n/adduser/zh.conf
 else
-  . ./i18n/adduser_en.conf
+  . ./i18n/adduser/en.conf
 fi
 
 # config file
