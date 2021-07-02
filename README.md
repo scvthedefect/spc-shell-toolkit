@@ -42,3 +42,9 @@ password=init-pass
 # 新账号的公钥文件
 key_file=~/.ssh/id_rsa.pub
 ```
+
+**Pending:**
+
+- [ ] 支持设置用户组
+- [ ] 免密登录设置改为可选
+
