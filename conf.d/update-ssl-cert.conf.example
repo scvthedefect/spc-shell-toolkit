@@ -1,0 +1,12 @@
+host=255.255.255.255
+port=22
+username=root
+
+local_cert_folder="~/Downloads/ssl_certs/"
+
+remote_cert_folder="/usr/local/ssl_certs/"
+remote_nginx_config_folder="/etc/nginx/conf.d/"
+nginx_config="/etc/nginx/nginx.conf"
+
+cert_file_zip="1234567_www.foobar.com_nginx.zip"
+remote_nginx_config_file="www.foobar.com.conf"
